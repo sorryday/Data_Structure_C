@@ -1,0 +1,23 @@
+﻿  main.c
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\liststack.h(1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(68): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(69): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(70): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(71): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(127): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(127): warning C4024: 'strncpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(132): warning C4047: '함수': 'Data *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(132): warning C4024: 'queue_enq': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(142): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(142): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(144): warning C4047: '함수': 'Data *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(144): warning C4024: 'queue_enq': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(167): warning C4047: '함수': 'Queue *'의 간접 참조 수준이 'Queue **'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(167): warning C4024: 'queue_deq': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(220): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(220): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(229): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(229): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(239): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\오전 평일 c 자료구조 - 송승현\ds1902\08_calculator\main.c(239): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  08_calculator.vcxproj -> D:\오전 평일 c 자료구조 - 송승현\DS1902\Debug\08_calculator.exe
